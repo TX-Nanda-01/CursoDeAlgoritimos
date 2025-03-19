@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#include <ctype.>
+#include <ctype.h>
 
 
 int main() {
